@@ -1,0 +1,13 @@
+{
+  "name": "engarte",
+  "version": "0.1",
+  "description": "Engarte start kit",
+  "license": "GPL",
+  "private": true,
+  "dependencies": {
+      "bootstrap": "~3.3.6",
+      "font-awesome": "~4.6.2",
+      "pretty-photo": "~1.0.1"
+  },
+  "private": true
+}

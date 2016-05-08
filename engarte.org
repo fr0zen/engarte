@@ -1,0 +1,207 @@
+#+TITLE: Planejamento Engarte - Assessoria digital para políticos e candidatos
+* Descrição
+** Nome
+Engarte
+** Slogan
+Engarte - o assessor digital de políticos e candidatos
+** Missão
+Desenvolver tecnologias que possibilitem aos candidatos e políticos estabelecer suas presenças digitais de forma segura e eficaz, criando um canal conciso de comunicação com eleitores e utilizando-se da internet e do Big Data para inteligência e tomada estratégica de decisões baseada em dados.
+** Visão
+A internet veio para maximizar a eficiência com que políticos e candidatos se comunicam com seus eleitores, tornando possível a tão sonhada democracia plena. A visão da Engarte é transformar este sonho em realidade.
+* Landing Page
+** Conteúdo
+- Sobre
+- Serviços
+- Planos
+- Newsletter
+- Fale Conosco (section e popup javascript (olark?))
+* Serviços
+- Site pessoal e de campanha (Jekyll)
+- Newsletter (MailChimp)
+- Monitoramento de Redes Sociais (hootsuite, Google Analytics, Facebook Analytics)
+- Pesquisas, estatísticas e relatórios (Google Forms, Google Analytics, Google Alerts, Alexa, Facebook)
+- Gestão de equipe e comitê de campanha (Trello, Slack, Telegram, etc...)
+- Sistema de doação para campanha
+- Informações e relatórios sobre o eleitorado e situação socio-economica e inclusão digital da região do candidato/político
+** Third Party
+*** Intercom (Conversa com eleitores)
+*** Mailchimp (Newsletter)
+*** Amazon AWS (Jekyll)
+*** Trello (gestão de tarefas)
+*** Grupos do Telegram (gestão de equipe)
+*** Bots do Telegram (assessor digital virtual)
+* Planos
+** Assessoria Express
+*** Preço
+- R$ 499,00/mes
+- R$ 2.000,00 de setup em 12x ou 15% de desconto à vista
+*** Serviços
+- Relatórios quinzenais
+- Monitoramento online do político ou candidato
+- Relatório básico de segurança digital
+- 100 minutos de consultoria
+- Indicação de serviços terceirizados
+** Assessoria de Campanha
+*** Preço
+- R$ 1999,00/mes
+- R$ 6.000,00 de setup em 12x ou 15% de desconto à vista
+*** Serviços
+- Relatórios Semanais
+- Monitoramento online do político ou candidato além de partido e/ou campanha
+- Website seguro
+- Gestão de lista de emails
+- Envio de uma mala direta a cada 15 dias
+- Acompanhamento de serviços terceirizados
+** Assessoria Completa
+*** Preço
+- R$ 4.999,00/mes
+- R$ 20.000,00 de setup em 12x ou 15% de desconto à vista
+*** Serviços
+- Relatórios diários
+- Monitoramento online de político, partído, candidato e/ou campanha
+- Monitoramento online político, partído, candidato e campanha de concorrentes
+- Website seguro
+- Gestão de lista de emails
+- Envio de até 2 malas diretas por semana
+- Gestão interna de serviços (não mais terceirizados)
+* Concorrentes
+** Sites
+- http://marketingpoliticodigital.com.br
+- http://www.eleitoronline.com.br
+** Modelos de Negócios diferentes para solução do problema
+*** Consultores de tecnologia
+- Efetividade: alta
+- Custo: alto
+- Tempo: alto¹
+¹ Alto em valores normais, médio ou baixo dependendo da negociação por urgência e custo ainda mais altos
+*** Sobrinhos, amigos e conhecidos
+Efetividade: média/aleatória
+Custo: zero
+Tempo: alto/médio
+*** Referências e pesquisas na internet
+Efetividade: baixa
+Custo: zero
+Custo de Tempo: baixo
+*** Nossa Solução
+Efetividade: alta
+custo: médio
+Custo de tempo: baixo/médio
+* Inspiração para Desenvolvimento
+Com base na minha experiência de 5 anos como gestor e vendedor em uma startup, desenvolvi um framework usando tecnologias disponíveis atualmente em qualquer celular para otimizar o uso da internet e das ferramentas disponíveis para politicos e candidatos.
+Aplicativos como Slack ou Trello para gerenciar equipe/comitê; Google Analytics, Alerts, Facebook e Twitter para acompanhamento de marca e engajamento; MailChimp para estruturação de lista de eleitores engajados; website em Jekyll para marketing de conteúdo e divulgação de pré-campanha, campanha e pós-campanha.
+* Golden Circle
+** Why
+Para permitir a utilização em sua plenitude da internet pelos representantes do povo na democracia
+** How
+Através de uma plataforma que atua como um assessor digital pessoal de cada candidato
+** What
+Criamos uma plataforma online que auxilia candidatos e políticos a gerenciarem suas presenças online, bem como extrair da internet informações vitais para municiar suas campanhas e gabinetes.
+* Business Model Canvas
+** Atividades-Chaves / Key Activities
+*** Consultoria tecnológica para candidatos e políticos
+*** Tecnologia, Inovação e Produtividade
+*** Marketing Digital
+*** Segurança Digital
+** Recursos-Chave / Key Resources
+*** Serviços online de produtividade (SaaS)
+*** Direção de Tecnologia
+*** Relacionamento com Cliente
+** Parceiros-Chave / Key Partners
+*** Serviços online de produtividade (SaaS)
+*** Empresas de Terceirização
+- Assessoria de comunicação
+- Marketing de Conteúdo
+- Assessoria Jurídica
+** Proposições de Valor / Value Propositions
+*** Tecnologia como diferencial competitivo de alto impacto e baixo custo na disputa política e eleitoral
+** Segmentos de clientes / Customer Segments
+*** Candidatos
+*** Políticos
+** Canais / Channels
+*** Internet
+*** Relacionamento 1-1 - venda direta
+*** Plataforma Self Service (serviços contratados online)
+** Relacionamento com Clientes / Customer Relationships
+*** Assistência pessoal dedicada de venda e pós-vendas
+*** Co-criação com responsabilidade e aprovação final do cliente
+*** Recomendação de terceirização e acompanhamento de serviços que não desenvolvemos
+** Estrutura de Custos / Cost Structure
+*** Custos de licenças de software
+*** Serviços de nuvem e hospedagem
+*** Templates customizados para os sites
+*** Terceirizações (social media, copywrite, fotografia, filmagem, etc)
+*** Contratações
+*** Sede e custos de escritório
+** Fonte de receitas / Revenue Stream
+*** Taxa inicial de setup
+- Dividido em planos
+- Instalação do site, configuração de serviços, formulação de conteúdo, etc
+*** Taxa Mensal
+- Valor fixo para quantidade fixa de serviços mensais
+- Exemplo: R$ 500,00 por 5 horas de consultoria e 2 newsletters
+
+* Pesquisa
+** Links
+*** http://marketingpoliticodigital.com/marketing-digital-eleitoral-candidato/
+Bom texto sobre por que um candidato deveria usar marketing digital politico
+*** http://marketingpoliticodigital.com/o-que-os-candidatos-presidenciais-americanos-nos-ensinam-sobre-marketing-politico-digital/
+Bom texto para exemplificar por que políticos e candidatos devem usar tecnologia de ponta (e não somente jornalismo/marketing) como ferramenta de destaque (Big Data)
+*** http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/
+Obama usou a tecnologia que usaremos (Jekyll)
+*** http://www.eleitoronline.com.br/regras-para-doacoes-de-campanha-eleitoral-na-internet/
+Regras para doação online. Crowdfunding. Um bom diferencial tecnológico.
+
+** Videos
+*** https://www.youtube.com/watch?v=vQXinqJz5Xw
+*** https://www.youtube.com/watch?v=8K4YPS2LF1o
+*** https://www.youtube.com/watch?v=h18dSJ1nJN8
+** Cursos
+*** http://www.eleitoronline.com.br/curso-de-marketing-politico-nas-redes-sociais/
+*** http://marketingpoliticodigital.leadlovers.com/mpd-2016
+** Leis
+*** Constituição Federal (arts. 14 a 17 e 118 a 121)
+*** Código Eleitoral (Lei nº 4.737/65)
+*** Lei das Eleições (Lei nº 9.504/97)
+http://www.eleitoronline.com.br/lei-das-eleicoes/
+*** Lei das Inelegibilidades (Lei Complementar nº 64/90)
+*** Lei Etelvino Lins (Lei n. 6.091/74)
+*** Lei dos Partidos Políticos (9.096/95)
+*** Respostas do TSE e dos TRE's às Consultas
+*** Resoluções do TSE
+** Referências de orçamento, serviços e preços (Concorrentes)
+*** http://eleicoes.uol.com.br/2012/noticias/2012/05/15/valor-de-kit-campanha-sai-pelo-preco-de-carro-popular.htm
+* Financeiro
+** Planejamento
+*** 1 ano
+**** Cenário 1 - Ideal
+|----------+------------+----------------+--------------+-------------+------------------|
+| Plano    | Quantidade | Valor de Setup | Valor Mensal | Total Setup | Total recorrente |
+|----------+------------+----------------+--------------+-------------+------------------|
+| Expressa |          7 |           1999 |          499 |    13993.00 |          3493.00 |
+| Campanha |          3 |           5999 |         1999 |    17997.00 |          5997.00 |
+|----------+------------+----------------+--------------+-------------+------------------|
+| 0.00     |      10.00 |        7998.00 |      2498.00 |    31990.00 |          9490.00 |
+|----------+------------+----------------+--------------+-------------+------------------|
+#+TBLFM: $5=$2*$3;%.2f::$6=$2*$4;%.2f::@4=vsum(@II..@III);%.2f
+
+**** Cenário 2 - Startup
+|----------+------------+----------------+--------------+-------------+------------------|
+| Plano    | Quantidade | Valor de Setup | Valor Mensal | Total Setup | Total recorrente |
+|----------+------------+----------------+--------------+-------------+------------------|
+| Expressa |         30 |           1999 |          199 |    59970.00 |          5970.00 |
+|----------+------------+----------------+--------------+-------------+------------------|
+| 0.00     |      30.00 |        1999.00 |       199.00 |    59970.00 |          5970.00 |
+|----------+------------+----------------+--------------+-------------+------------------|
+#+TBLFM: $5=$2*$3;%.2f::$6=$2*$4;%.2f::@3=vsum(@II..@III);%.2f
+
+**** Cenário 3 - Mão-de-obra intensiva
+|----------+------------+----------------+--------------+-------------+------------------|
+| Plano    | Quantidade | Valor de Setup | Valor Mensal | Total Setup | Total Recorrente |
+|----------+------------+----------------+--------------+-------------+------------------|
+| Expressa |         30 |           1999 |          199 |    59970.00 |          5970.00 |
+| Campanha |         10 |           5999 |         1999 |    59990.00 |         19990.00 |
+| Completa |          5 |          19999 |         4999 |    99995.00 |         24995.00 |
+|----------+------------+----------------+--------------+-------------+------------------|
+| 0.00     |      45.00 |       27997.00 |      7197.00 |   219955.00 |         50955.00 |
+|----------+------------+----------------+--------------+-------------+------------------|
+#+TBLFM: $5=$2*$3;%.2f::$6=$2*$4;%.2f::@5=vsum(@II..@III);%.2f

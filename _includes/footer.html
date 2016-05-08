@@ -1,0 +1,33 @@
+<div id="footerwrap">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <h4>Sobre</h4>
+        <div class="hline-w"></div>
+        <p>{{ site.data.about.about }}</p>
+      </div>
+      <div class="col-lg-4">
+        <h4>Redes Sociais</h4>
+        <div class="hline-w"></div>
+        <p>
+          {% for network in site.data.about.social %}
+          <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+          {% endfor %}
+        </p>
+      </div>
+      <div class="col-lg-4">
+        <h4>Perguntas Frequentes</h4>
+        <div class="hline-w"></div>
+        {% for post in site.categories['question'] %}
+        <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+        {% endfor %}
+
+        <h4>Últimos Posts</h4>
+        <div class="hline-w"></div>
+        {% for post in site.categories['blog'] limit:5 %}
+        <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

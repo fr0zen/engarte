@@ -1,0 +1,15 @@
+about: "Assessoria digital para políticos e candidatos."
+address:
+  lines: 
+    - Maricá, RJ,
+    - Brasil
+  email: contato@engarte.com
+  tel: +31 99788 2008
+social:
+  - title: facebook
+    url: "http://facebook.com/engarte"
+  - title: twitter
+    url: "http://twitter.com/engarte"
+  - title: instagram
+    url: "http://instagram.com/engarte"
+  

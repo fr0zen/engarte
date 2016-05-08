@@ -1,0 +1,10 @@
+services:
+  technology:
+    title: "Tecnologia"
+    content: "teste teste teste"
+  digital-marketing:
+    title: "Marketing Digital"
+    content: "teste teste teste"
+  digital-security:
+    title: "Segurança Digital"
+    content: "teste teste teste"

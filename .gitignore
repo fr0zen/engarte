@@ -42,7 +42,7 @@ _site
 .jekyll-metadata
 
 # Vendor directory
-assets/vendor/
+# assets/vendor/
 
 # Ruby
 Gemfile.lock

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Time to change your apps"
-date: 2014-04-25 16:54:46
+title: "Obama'2008: Um marco para as campanhas digitais"
+date: 2016-05-07 16:54:46
 author: Admin
-categories: 
-- blog 
+categories:
+- blog
 - Wordpress
 - Photoshop
 img: post01.jpg

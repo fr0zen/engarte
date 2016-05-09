@@ -5,8 +5,6 @@ date: 2016-05-07 16:54:46
 author: Admin
 categories:
 - blog
-- Wordpress
-- Photoshop
 img: post01.jpg
 thumb: thumb01.jpg
 ---

@@ -1,0 +1,13 @@
+noticias:
+  - name: Exame
+    img: exame.png
+    url: http://exame.abril.com.br/pme/noticias/como-montar-um-negocio-na-web-antes-dos-25-anos?p=8
+  - name: The Next Web
+    img: thenextweb.png
+    url: http://thenextweb.com/la/2012/06/25/how-crowdsourcing-is-taking-root-in-latin-america/
+  - name: Valor
+    img: valor.png
+    url: http://www.valor.com.br/carreira/2822078/nova-plataforma-ajuda-no-recrutamento-especializado
+  - name: InfoMoney
+    img: infomoney.png
+    url: http://www.infomoney.com.br/carreira/emprego/noticia/2560326/Startup-brasileira-ajuda-empresas-encontrarem-freelancers-engenharia

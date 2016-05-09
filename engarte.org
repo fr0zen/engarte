@@ -66,6 +66,7 @@ A internet veio para maximizar a eficiência com que políticos e candidatos se 
 - Gestão interna de serviços (não mais terceirizados)
 * Concorrentes
 ** Sites
+- http://siteparapoliticos.com
 - http://marketingpoliticodigital.com.br
 - http://www.eleitoronline.com.br
 ** Modelos de Negócios diferentes para solução do problema
@@ -142,6 +143,7 @@ Criamos uma plataforma online que auxilia candidatos e políticos a gerenciarem 
 
 * Pesquisa
 ** Links
+*** http://www.politicaparapoliticos.com.br
 *** http://marketingpoliticodigital.com/marketing-digital-eleitoral-candidato/
 Bom texto sobre por que um candidato deveria usar marketing digital politico
 *** http://marketingpoliticodigital.com/o-que-os-candidatos-presidenciais-americanos-nos-ensinam-sobre-marketing-politico-digital/

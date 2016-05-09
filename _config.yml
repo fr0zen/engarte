@@ -8,6 +8,7 @@ description: "Assessoria digital para políticos e candidatos."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://engarte.com"
+analytics: true
 
 # Handling Reading
 include:
